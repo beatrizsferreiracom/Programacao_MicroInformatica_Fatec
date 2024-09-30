@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Soma
+namespace SomaBasica
 {
     internal static class Program
     {
