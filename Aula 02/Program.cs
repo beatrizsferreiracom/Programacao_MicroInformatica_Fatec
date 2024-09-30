@@ -1,4 +1,4 @@
-namespace teste
+namespace OperacoesAritmeticas
 {
     internal static class Program
     {
