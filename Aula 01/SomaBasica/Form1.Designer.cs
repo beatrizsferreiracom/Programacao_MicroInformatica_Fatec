@@ -1,4 +1,4 @@
-﻿namespace Soma
+﻿namespace SomaBasica
 {
     partial class Form1
     {
