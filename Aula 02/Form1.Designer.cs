@@ -1,4 +1,4 @@
-﻿namespace teste
+﻿namespace OperacoesAritmeticas
 {
     partial class Form1
     {
